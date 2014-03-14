@@ -11,3 +11,10 @@ I have multiple files in a folder and the file names are saved as 1.sql, 2.sql�
 Suppose your files are in /automated_scripts/sql-dir directory. I want the output file sql_report_path.csv under /automated_scripts.
 
 I will use python here. I will save the below code as read_n_extract_sql_file.py
+
+I will execute the read_n_extract_sql_file.py in linux using Execute_python_file_linux and the output to be saved in CSV format. 
+
+Your csv file will have the below output.
+
+../out-dir/q1.sql SAW_SRC_PATH=’/shared/Dashboard/report path 1’
+../out-dir/q1.sql SAW_SRC_PATH=’/shared/Dashboard/report path 2’
