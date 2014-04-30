@@ -18,3 +18,13 @@ Your csv file will have the below output.
 
 ../out-dir/q1.sql SAW_SRC_PATH=’/shared/Dashboard/report path 1’
 ../out-dir/q1.sql SAW_SRC_PATH=’/shared/Dashboard/report path 2’
+
+=========================
+
+Google Python Exercises - Google Developers
+============================================
+
+Below are the python code exercises.
+
+string1.py
+string2.py
